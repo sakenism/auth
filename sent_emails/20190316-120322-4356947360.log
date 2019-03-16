@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: sakenism@gmail.com
+Date: Sat, 16 Mar 2019 12:03:22 -0000
+Message-ID: <155273780297.4418.15819915019882162989@MacBook-Air-Saken.local>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/54o-18c8e0c7f29a7cd902b8/
+
+Your username, in case you've forgotten: boss
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
